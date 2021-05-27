@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `Aproach`
  ->retrieving data fro the given api using fetch.\
  ->Using state to store the retrieved data.\
- -> dispaying the data stored in our item state\
+ -> dispaying the data stored in our item state
  
  
  
