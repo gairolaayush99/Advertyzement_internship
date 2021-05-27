@@ -2,9 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Screenshot
+### `Screenshot`
 
 ![Screenshot from 2021-05-27 15-44-37](https://user-images.githubusercontent.com/61145150/119809684-fff4b880-bf02-11eb-967b-5e83a4e46068.png)
+
+
+
+### `Aproach`
+ ->retrieving data fro the given api using fetch.
+ ->Using state to store the retrieved data.
+ -> dispaying the data stored in our item state
+ 
+ 
+ 
+ ->using components to display header and user details for moduler programming
+ ->passing props to child component and changing state when clicked on get user
+ 
 
 
 
