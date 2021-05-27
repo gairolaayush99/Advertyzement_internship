@@ -2,9 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Screenshot
 
-In the project directory, you can run:
+![Screenshot from 2021-05-27 15-44-37](https://user-images.githubusercontent.com/61145150/119809684-fff4b880-bf02-11eb-967b-5e83a4e46068.png)
+
+
+
 
 ### `npm start`
 
