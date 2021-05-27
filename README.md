@@ -3,8 +3,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `Screenshot`
+![Screenshot from 2021-05-27 15-56-49](https://user-images.githubusercontent.com/61145150/119811018-426ac500-bf04-11eb-9074-e1c9d21ac841.png)
+
+
+clicking on getuser
 
 ![Screenshot from 2021-05-27 15-44-37](https://user-images.githubusercontent.com/61145150/119809684-fff4b880-bf02-11eb-967b-5e83a4e46068.png)
+
+
+Resposnsive page
+
+![Screenshot from 2021-05-27 15-44-57](https://user-images.githubusercontent.com/61145150/119811026-4565b580-bf04-11eb-8a98-d7b4f3efe144.png)
+
+
+
 
 
 
