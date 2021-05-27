@@ -11,12 +11,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `Aproach`
  ->retrieving data fro the given api using fetch.\
  ->Using state to store the retrieved data.\
- -> dispaying the data stored in our item state\\
+ -> dispaying the data stored in our item state\
  
  
  
  ->using components to display header and user details for moduler programming. \
- ->passing props to child component and changing state when clicked on get user. \
+ ->passing props to child component and changing state when clicked on get user. 
  
 
 
